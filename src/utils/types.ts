@@ -63,8 +63,8 @@ export interface HistoryEntry {
   name: string;
   buyPrice: number;
   buySolAmount: number;
-  amount: number;
   buyTime: number;
+  amount: number;
   sellPrice: number;
   sellSolAmount: number;
   sellTime: number;
